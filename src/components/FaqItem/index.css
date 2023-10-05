@@ -1,0 +1,37 @@
+.faq-item {
+  border: 1px solid #d7dae6;
+  border-radius: 10px;
+  padding: 20px 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 25px 0;
+}
+
+.que-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.faq-question {
+  color: #52606d;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: roboto;
+}
+
+.btn {
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
+  background-color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.icon {
+  height: 30px;
+  width: 30px;
+}
